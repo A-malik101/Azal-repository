@@ -1,0 +1,64 @@
+
+#===========================================
+#BEST CALCULATOR I48N THE ENTIR89 WORLD!""
+#===========================================
+
+#===========================================
+#S/ST3M 1NT3RF4C3 LOGISTICATOR
+#===========================================
+num1 = float(input("type first number"))
+num3 = str(input("type calculation method"))
+num2 = float(input("type second number"))
+#===========================================
+
+#===========================================
+#GL0B4L COMM4ND R4NG3 AI DATABASE EXPORTER
+#===========================================
+
+if num3 == "*":
+  num3 == "multiplied"
+  print ((num1),"×",(num2),"=", (num1*num2))
+
+if num3 == "+":
+  num3 == "plus"
+  print ((num1),"+",(num2),"=", (num1+num2))
+  
+if num3 == "-":
+  num3 == "subtract"
+  print ((num1),"-",(num2),"=", (num1-num2))
+  
+if num3 == "/":
+  num3 == "divide"
+  print ((num1),"÷",(num2),"=", (num1/num2))
+  
+if num3 == "d":
+  num3 == "divide"
+  print ((num1),"÷",(num2),"=", (num1/num2))
+  
+if num3 == "multiply":
+  num3 == "multiplied"
+  print ((num1),"×",(num2),"=", (num1*num2))
+
+if num3 == "add":
+  num3 == "plus"
+  print ((num1),"+",(num2),"=", (num1+num2))
+  
+if num3 == "minus":
+  num3 == "subtract"
+  print ((num1),"-",(num2),"=", (num1-num2))
+  
+if num3 == "divide":
+  num3 == "divide"
+  print ((num1),"÷",(num2),"=", (num1/num2))
+  
+if num3 == "x":
+  num3 == "multiplied"
+  print ((num1),"×",(num2),"=", (num1*num2))
+  
+if num3 == "tahid":
+  num3 == "multiplied"
+  print ((num1),"×",(num2),"=", (num1*num2))#
+  
+#===========================================
+#END PROGRAM APOCALYPSE
+#===========================================
